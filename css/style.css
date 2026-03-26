@@ -66,13 +66,13 @@ h1 {
 }
 
 .property {
-    background: linear-gradient(135deg, #f59e0b, #f97316) !important;
+    background: #f97316;
     color: white;
     margin-top: 15px;
 }
 
 .property:hover {
-    background: linear-gradient(135deg, #d97706, #ea580c);
+    background: #ea580c;
 }
 
 .btn {
