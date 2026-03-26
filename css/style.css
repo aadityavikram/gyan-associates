@@ -66,7 +66,7 @@ h1 {
 }
 
 .property {
-    background: linear-gradient(135deg, #f59e0b, #f97316);
+    background: linear-gradient(135deg, #f59e0b, #f97316) !important;
     color: white;
     margin-top: 15px;
 }
