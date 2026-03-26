@@ -82,6 +82,15 @@ h1 {
   background: #16a34a;
 }
 
+.email {
+  background: #3b82f6;
+  color: white;
+}
+
+.email:hover {
+  background: #2563eb;
+}
+
 .map {
   margin-top: 20px;
   overflow: hidden;
